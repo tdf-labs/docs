@@ -4,31 +4,12 @@ sidebar_position: 3
 
 # Create a Blog Post
 
-Docusaurus creates a **page for each blog post**, but also a **blog index page**, a **tag system**, an **RSS** feed...
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eget nunc lobortis mattis aliquam faucibus. Eu tincidunt tortor aliquam nulla. Est ultricies integer quis auctor elit sed vulputate. Facilisis leo vel fringilla est ullamcorper eget. Pellentesque pulvinar pellentesque habitant morbi tristique senectus et netus et. Pellentesque elit eget gravida cum. Sit amet volutpat consequat mauris nunc congue nisi vitae. Massa sapien faucibus et molestie ac feugiat sed. Vel pharetra vel turpis nunc eget lorem dolor. Ac tincidunt vitae semper quis lectus nulla at. Nisl condimentum id venenatis a condimentum vitae sapien pellentesque. Dignissim enim sit amet venenatis urna cursus. Dapibus ultrices in iaculis nunc sed augue. Pulvinar sapien et ligula ullamcorper malesuada. Fermentum leo vel orci porta non. Ut consequat semper viverra nam libero justo laoreet sit. Id leo in vitae turpis massa sed elementum. Egestas maecenas pharetra convallis posuere morbi leo urna. Pellentesque adipiscing commodo elit at imperdiet dui accumsan sit.
 
-## Create your first Post
+Tellus in metus vulputate eu scelerisque felis. Nullam non nisi est sit amet. Donec enim diam vulputate ut pharetra sit amet. Ultrices in iaculis nunc sed. Ac turpis egestas integer eget aliquet nibh praesent. Quis vel eros donec ac odio tempor orci dapibus ultrices. Et netus et malesuada fames ac turpis egestas integer. Urna id volutpat lacus laoreet. In fermentum posuere urna nec. Placerat duis ultricies lacus sed turpis tincidunt id aliquet risus. Nascetur ridiculus mus mauris vitae ultricies leo integer.
 
-Create a file at `blog/2021-02-28-greetings.md`:
+Nisi quis eleifend quam adipiscing. Massa massa ultricies mi quis hendrerit dolor magna. Malesuada nunc vel risus commodo viverra maecenas accumsan lacus vel. Amet cursus sit amet dictum sit amet justo donec enim. In tellus integer feugiat scelerisque. Felis bibendum ut tristique et egestas quis ipsum suspendisse. Sapien nec sagittis aliquam malesuada bibendum. Id diam vel quam elementum pulvinar. In est ante in nibh mauris cursus. Mattis enim ut tellus elementum sagittis vitae et leo duis. Mattis vulputate enim nulla aliquet porttitor lacus luctus accumsan tortor. Sit amet facilisis magna etiam tempor orci eu lobortis elementum.
 
-```md title="blog/2021-02-28-greetings.md"
----
-slug: greetings
-title: Greetings!
-authors:
-  - name: Joel Marcey
-    title: Co-creator of Docusaurus 1
-    url: https://github.com/JoelMarcey
-    image_url: https://github.com/JoelMarcey.png
-  - name: Sébastien Lorber
-    title: Docusaurus maintainer
-    url: https://sebastienlorber.com
-    image_url: https://github.com/slorber.png
-tags: [greetings]
----
+Tincidunt lobortis feugiat vivamus at augue eget arcu dictum varius. Turpis massa sed elementum tempus egestas. A iaculis at erat pellentesque. Ipsum suspendisse ultrices gravida dictum fusce ut placerat orci. Fringilla est ullamcorper eget nulla facilisi etiam. Tincidunt tortor aliquam nulla facilisi cras fermentum odio. Dui ut ornare lectus sit amet est. In fermentum posuere urna nec tincidunt praesent semper feugiat. Nunc non blandit massa enim nec dui nunc. Nulla facilisi morbi tempus iaculis urna id volutpat lacus. Neque ornare aenean euismod elementum nisi. Fusce ut placerat orci nulla pellentesque dignissim enim sit amet. Id diam vel quam elementum pulvinar etiam non. Egestas sed tempus urna et pharetra pharetra massa massa ultricies.
 
-Congratulations, you have made your first post!
-
-Feel free to play around and edit this post as much you like.
-```
-
-A new blog post is now available at [http://localhost:3000/blog/greetings](http://localhost:3000/blog/greetings).
+Sit amet luctus venenatis lectus magna fringilla urna porttitor. Felis bibendum ut tristique et egestas quis ipsum suspendisse. Sit amet venenatis urna cursus eget nunc. At risus viverra adipiscing at in tellus integer feugiat scelerisque. Neque sodales ut etiam sit. At quis risus sed vulputate odio. Id aliquet lectus proin nibh nisl. Vitae suscipit tellus mauris a diam. Tincidunt dui ut ornare lectus sit amet est. Pharetra magna ac placerat vestibulum lectus mauris. Bibendum ut tristique et egestas. Volutpat commodo sed egestas egestas fringilla phasellus. Quis imperdiet massa tincidunt nunc pulvinar sapien et ligula ullamcorper. Eleifend mi in nulla posuere sollicitudin aliquam. Viverra nibh cras pulvinar mattis nunc sed. Arcu dui vivamus arcu felis. Mauris ultrices eros in cursus turpis massa tincidunt.
